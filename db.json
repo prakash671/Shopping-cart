@@ -1,0 +1,59 @@
+{
+  "products":[
+   { "id" : 1,
+    "name":"Batman-gadget",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut efficitur velit",
+    "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEGDJ8p6vjY0aBoeLMsPlMRamxOrGYEUM7Dw&usqp=CAU",
+     "price": 2499
+   },
+   { "id" : 2,
+    "name":"Batmant-shirt",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut efficitur velit",
+    "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6WWGOtgxML4FveElNDdGeRjJ31Qv9uUAYtA&usqp=CAU",
+     "price": 499
+   },
+   { "id" : 3,
+    "name":"suit top",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut efficitur velit",
+    "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcL8Zu2pVzCoQMUa0hfGrT2ECJoKI4expP3Q&usqp=CAU",
+     "price": 1499
+   },
+   { "id" : 4,
+    "name":"batBlade",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut efficitur velit",
+    "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjap9SLcsLYA9Ujok9vGwq_PUsko51uDbng&usqp=CAU",
+     "price": 49
+   },   { "id" : 5,
+    "name":"batCycle",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut efficitur velit",
+    "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyiZNKURX6gxshljqKlRqtn1QN-1iNYHKP6g&usqp=CAU",
+     "price": 899
+   },   
+   { "id" : 6,
+    "name":"batMobile",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut efficitur velit",
+    "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2gkOITzmfOBcaV3KXKtwVOp9gXaoiOtEMMw&usqp=CAU",
+     "price": 999
+   }
+
+  ],
+
+   
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
